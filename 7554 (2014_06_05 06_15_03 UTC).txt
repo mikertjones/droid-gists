@@ -1,0 +1,756 @@
+Lotno	Description	LowEstimate	HighEstimate
+1	Wooden Hospital Bedside Cabinet	0	0
+2	Wooden Hospital Bedside Cabinet	0	0
+3	Wooden Hospital Bedside Cabinet	0	0
+4	Wooden Hospital Bedside Cabinet	0	0
+5	Hereaus Instruments Incubator	0	0
+6	Stereo Optical Vision Tester	0	0
+7	EMS Megapulse Therapy Unit	0	0
+8	Eschmann VP-120 Suction Unit	0	0
+9	Tilt Top Medical Trolley	0	0
+10	Bristol Maid Tilt Top Medeical Trolley	0	0
+11	Freeway Medical Tilt Top Medical Trolley	0	0
+12	Freeway Medical Tilt Top Medical Trolley	0	0
+13	Avocado Green Stainless Steel Topped Medical Trolley	0	0
+14	Clement Clarje Opthalmic Unit	0	0
+15	Hewlett Packard Agilent Patient Monitor & Control Unit With Remote & Rack System	0	0
+16	Hewlett Packard Agilent Patient Monitor & Control Unit With Remote & Rack System	0	0
+17	Hewlett Packard Agilent Patient Monitor & Control Unit With Remote & Rack System	0	0
+18	Hewlett Packard Agilent Patient Monitor & Control Unit	0	0
+19	Hewlett Packard Agilent Patient Monitor & Control Unit	0	0
+20	Hewlett Packard Agilent Patient Monitor Only	0	0
+21	Smith & Nephew Dyonics Camera System on Trollet with Monitor Including Images Xenon Lightsource - 3 Chip Digital Camera Unit - Stills Recorder etc	0	0
+22	Sony Camera System on Trolley with Small Monitor - Sony Camera Unit & Head with R/C - Olympus CLV-S20 Light Source & Sony VHS Video Recorder	0	0
+23	Box of Small Medical Cushions for Operating Tables	0	0
+24	Vickers Air Shields C200 Infant Incubator	0	0
+25	Vickers Air Shields C200 Infant Incubator	0	0
+26	5 x Alaris P-6000 Syringe Drivers	0	0
+27	5 x Alaris P-6000 Syringe Drivers	0	0
+28	5 x Alaris P-6000 Syringe Drivers	0	0
+29	5 x Alaris P-6000 Syringe Drivers	0	0
+30	5 x Alaris P-6000 Syringe Drivers	0	0
+31	5 x Alaris P-6000 Syringe Drivers	0	0
+32	5 x Disetronic Insulin Pumps	0	0
+33	Disetronic Insulin Pump Starter Kit	0	0
+34	Disetronic Insulin Pump Starter Kit	0	0
+35	Disetronic Insulin Pump Starter Kit	0	0
+36	Disetronic Insulin Pump Starter Kit	0	0
+37	Disetronic Insulin Pump Starter Kit	0	0
+38	Hemochron Repsonse Whole Blood Coagulation System	0	0
+39	4 x Astotherm PLUS Blood & Fluid Warmers	0	0
+40	4 x Astotherm IFT-200 Blood & Fluid Warmers	0	0
+41	4 x Astotherm IFT-200 Blood & Fluid Warmers	0	0
+42	4 x Fisher & Paykell HC-221 Humidifiers	0	0
+43	4 x Fisher & Paykell HC-221 Humidifiers	0	0
+44	Schleicher Bench Top Processor	0	0
+45	Accusson Test Boards in Carry Case for Ultrasounds	0	0
+46	Large Format UMAX Desktop Scanner	0	0
+47	Box of Irma Trupoint Blood Analysis System Consumables	0	0
+48	Dentsply Rinn Periomat Dental X-Ray Developer System	0	0
+49	4 x Boxes of New Millipore Sterirest EZ Sterility Testing System Consumables	0	0
+50	2 x New Suction Bottles	0	0
+51	Omron NEU 07 Nebuliser in Original Packaging	0	0
+52	Trek Viscous Fluid Injector Including Foot Pedal	0	0
+53	Cardiorater CR-5 Patient Monitor & Cable	0	0
+54	MCO Gas Module for Modular RAC Systems	0	0
+55	Hitachi Camera Control Unit	0	0
+56	Synthes Orthopaedic Drill & Hose	0	0
+57	Synthes Orthopaedic Drill & Hose	0	0
+58	Synthes Orthopaedic Drill & Hose	0	0
+59	Oticon Hearing Aid Tester - As New in Box	0	0
+60	10 x Core IVAC Tympanic Thermometers with Bases	0	0
+61	10 x Core IVAC Tympanic Thermometers with Bases	0	0
+62	10 x Core IVAC Tympanic Thermometers with Bases	0	0
+63	10 x Core IVAC Tympanic Thermometers with Bases	0	0
+64	10 x Core IVAC Tympanic Thermometers with Bases	0	0
+65	10 x Core IVAC Tympanic Thermometers with Bases	0	0
+66	10 x Core IVAC Tympanic Thermometers with Bases	0	0
+67	10 x Core IVAC Tympanic Thermometers with Bases	0	0
+68	25 x Single & 25 x Double Penlon Oxygen Flowmeters	0	0
+69	Dinamp Compact TS Patient Monitor on Trolley with Cable	0	0
+70	Laerdal Heartstart 3000 AED Defibrillator	0	0
+71	Cardiac Science Powerheart AED Defibrillator with New Pads	0	0
+72	Zeiss Medi-Live Camera Model 2/10	0	0
+73	Zeiss Medi Live Camera Control Unit	0	0
+74	DP Medical Camera Unit & Head	0	0
+75	3 x Alaris Gold Signature Infusion Pumps	0	0
+76	3 x Alaris Gold Signature Infusion Pumps	0	0
+77	3 x Alaris Gold Signature Infusion Pumps	0	0
+78	3 x Alaris Gold Signature Infusion Pumps	0	0
+79	3 x Alaris Gold Signature Infusion Pumps	0	0
+80	3 x Alaris Gold Signature Infusion Pumps	0	0
+81	3 x Alaris Gold Signature Infusion Pumps	0	0
+82	3 x Alaris Gold Signature Infusion Pumps	0	0
+83	Graseby 500 Infusion Pumps	0	0
+84	Graseby 500 Infusion Pumps	0	0
+85	Graseby 500 Infusion Pumps	0	0
+86	Graseby 500 Infusion Pumps	0	0
+87	Graseby 500 Infusion Pumps	0	0
+88	Graseby 500 Infusion Pumps	0	0
+89	Graseby 500 Infusion Pumps	0	0
+90	Graseby 500 Infusion Pumps	0	0
+91	Graseby 500 Infusion Pumps	0	0
+92	Graseby 500 Infusion Pumps	0	0
+93	Graseby 500 Infusion Pumps	0	0
+94	Graseby 500 Infusion Pumps	0	0
+95	Graseby 500 Infusion Pumps	0	0
+96	Graseby 500 Infusion Pumps	0	0
+97	Sabre ELS Emergency Escape System Breather System	0	0
+98	Olympus OTV-A - Angioscope System & Angioscope in Case	0	0
+99	Seca Portable Infant Scales	0	0
+100	Seca Portable Infant Scales	0	0
+101	Seca Portable Infant Scales	0	0
+102	Seca Portable Infant Scales	0	0
+103	Seca Portable Infant Scales	0	0
+104	Seca Portable Infant Scales	0	0
+105	Seca Portable Infant Scales	0	0
+106	Seca Portable Infant Scales	0	0
+107	Seca Portable Infant Scales	0	0
+108	Seca Portable Infant Scales	0	0
+109	EMS Therasonic Mark 3 Therapy System	0	0
+110	Micromedical Portable Printer in Carry Case	0	0
+111	Phaco Emulsifier Cleaning & Maintenance Kits	0	0
+112	Olympus OSF-2 Sigmoidoscope	0	0
+113	Sony SVO-9500MDP VCR System	0	0
+114	Bayer Clinitek System Urine Chemistry Analyzer	0	0
+115	Graseby MS26 Daily Rate Syringe Driver	0	0
+116	Critikon Dinamap Monitor & BP Cuff	0	0
+117	GE Tram RAC 4A & Module	0	0
+118	Maguire Lifepak 9 to HP Merlin Slave Lead in Case	0	0
+119	Coltene Coltolux 50 Dental Curing Light	0	0
+120	2 x CADD PCA Units for Patient Controlled Analgesia in Carrying Cases	0	0
+121	Graseby 3000 Syringe Driver	0	0
+122	3 x Eastleigh Apnoea/Respiratory Monitors Model RE200	0	0
+123	Dakmed Nerve Stimulator	0	0
+124	Downs Cautery Unit	0	0
+125	3 x Teledyne Oxygen Monitors & Leads	0	0
+126	3 x Teledyne Oxygen Monitors & Leads	0	0
+127	3 x Teledyne Oxygen Monitors & Leads	0	0
+128	3 x Teledyne Oxygen Monitors & Leads	0	0
+129	Kendall SCD 5326 Vascular Compression Pump & Hose	0	0
+130	Detrey Dental Amalgam Mixer	0	0
+131	Teledyne Oxygen Monitor	0	0
+132	Laerdal Portable Suction Unit in Carrying Case	0	0
+133	Laerdal Portable Suction Unit in Carrying Case	0	0
+134	Laerdal Portable Suction Unit in Carrying Case	0	0
+135	Laerdal Portable Suction Unit in Carrying Case	0	0
+136	Laerdal Portable Suction Unit in Carrying Case	0	0
+137	Laerdal Portable Suction Unit in Carrying Case	0	0
+138	Laerdal Portable Suction Unit in Carrying Case	0	0
+139	Laerdal Portable Suction Unit in Carrying Case	0	0
+140	Ambu RMT System in Case	0	0
+141	Seca Floor Type Digital Scales	0	0
+142	Seca Floor Type Digital Scales	0	0
+143	Seca Floor Type Digital Scales	0	0
+144	Seca Floor Type Digital Scales	0	0
+145	Seca Floor Type Dial Scales	0	0
+146	Seca Floor Type Dial Scales	0	0
+147	"Sony 20"" Medical Grade Monitor"	0	0
+148	"Sony 20"" Medical Grade Monitor"	0	0
+149	"Viewsonic Pro Series PF775 17"" CRT Monitor"	0	0
+150	McCue Cuba Ultrasound Heel Bone Densitometer	0	0
+151	Elgastat Mediro Water Purification System	0	0
+152	Box of Graseby 500 Infusion Pump Spares	0	0
+153	Boston Scientific HTA (Hysteroscopic Thermal Ablation) System - Boxed As New with Manuals & Leads	0	0
+154	Atlas Clean Air Ltd Laboratory Safe Cabinet	0	0
+155	IDEXX Quanti-Tray Laboratory Testing System & Accessories	0	0
+156	3 x MEC Anaesthetic Gas Scavengers	0	0
+157	5 x Baxter AP-11 Epidural Infusion Pumps	0	0
+158	Watson Marlow 505U Peristaltic Pump	0	0
+159	Datex Relaxograph Unit & Cables	0	0
+160	Eddy Jet Laboratory Spiral Plater System with Accessories	0	0
+161	11 x Respironics RemStar CPAP Units	0	0
+162	11 x Respironics RemStar CPAP Units	0	0
+163	11 x Respironics RemStar CPAP Units	0	0
+164	3 x Respironics RemStar & 2 DeVilbiss CPAP Units	0	0
+165	3 x Boxes (30 Total) New Pro Breathe Laryngeal Masks	0	0
+166	3 x Boxes (30 Total) New Pro Breathe Laryngeal Masks	0	0
+167	3 x Boxes (30 Total) New Pro Breathe Laryngeal Masks	0	0
+168	3 x Boxes (30 Total) New Pro Breathe Laryngeal Masks	0	0
+169	800 x 800 Corner Shower Tray with Screen	0	0
+170	700 mm Chrome Frame Shower Door RRP £325	0	0
+171	White Ceramic Square Modern Style Sink to take Mono Block Tap	0	0
+172	White Ceramic Wsh Hand Basin to take Mono Block Tap RRP £125	0	0
+173	Back to Wall White WC with Lid	0	0
+174	Back to Wall White WC with Lid	0	0
+175	White Ceramic Counter Top Basin	0	0
+176	White Back to Wall WC	0	0
+177	"White Acrylic ""P"" Shaped Bath with Shower Screen"	0	0
+178	White Back to Wall WC	0	0
+179	White Back to Wall WC	0	0
+180	White Back to Wall WC	0	0
+181	100 x 800 Corner Shower Tray	0	0
+182	2 Ideal Shower Display Panels	0	0
+183	White Counter Top Wash Hand Basin	0	0
+184	White Contempary Style Under Counter Wash Hand Basin	0	0
+185	Under Counter Oval Ceramic Wash Basin	0	0
+186	White Acrylic Bath	0	0
+187	White Backed WC with Seat & Matching Hand Basin	0	0
+188	White Acrylic Bath	0	0
+189	3 Whirlpool Baths complete with Pumps ( All seconds or Ex-Display)	0	0
+190	Assorted Bathroom Cabinets	0	0
+191	"Bathroom Suite comprising of White Acrylic Corner Bath, Toilet with Dual Flush Cistern & Seat and Wash Hand Basin with Pedestal"	0	0
+193	Boxed White Back to Wall WC with Seat	0	0
+194	Boxed White Back to Wall WC with Seat	0	0
+195	Cream Double Door Wardrobe	0	0
+196	Oak Office Table over 2 Drawers	0	0
+197	Dark Oak Double Pedestal Desk	0	0
+198	Golden Oak Double Pedestal Desk	0	0
+199	Oak Single Pedestal Desk	0	0
+200	Oak Single Pedestal Desk	0	0
+201	Pair of Oatmeal Reception Chairs	0	0
+202	Oatmeal Office Chair	0	0
+203	Minolta Dialta Model DI251 Copier	0	0
+204	Roland Digital Plotter Model GRX-300AG	0	0
+205	Hand Dryer Ref:- HL 412	0	0
+206	Electric Bag Sealer Ref:- HL 496	0	0
+207	Stainless Steel Hand Dryer Ref:- HL 413	0	0
+208	Stainless Steel Shelf Unit Ref:- HL 13	0	0
+209	Falcon Gas Fired Eye Level Grill on Stand	0	0
+210	Stainless Steel Mobile 3 Tier Unit Ref:- HL 455	0	0
+211	Stainless Steel 4 Burner Kebab Grill	0	0
+212	Gram 2 Door Stainless Steel Preparation Unit Enclosed by Double Doors Ref:- HL 407	0	0
+213	Profi-Ice 3120 Ice Machine	0	0
+214	Stainless Steel Lincat Floor Standing Double Fryer	0	0
+215	Frigomat Model T5.S Ice Cream Maker	0	0
+216	Stainless Steel Mobile Hot Cupboard Ref:- HL 440	0	0
+217	Stainless Steel 3 Tier Unit Ref:- HL 07	0	0
+218	Stainless Steel 3 Tier Mobile Unit Ref:- HL 08	0	0
+219	Asland Stainless Steel Upright Dairy Display Unit Ref:- HL 357	0	0
+220	Foster Stainless Steel Single Door Upright Refrigerator Model NGH20T Ref: HL 401	0	0
+221	Williams Stainless Steel Single Door Upright Refrigerator	0	0
+222	Orion Model Vista 2.8 Ice Cream Display Freezer	0	0
+223	Chef King 2 Deck Electric Pizza Oven	0	0
+224	Spectra Electro Dahlen 3 Deck Break Oven Type S52C	0	0
+225	Infrico Refrigerated Pizza Preparation Counter over 3 Lockers	0	0
+226	Interlevin Brushed Stainless Steel & Glazed Gateaux Display Cabinet	0	0
+227	"Stainless Steel Preparation Table over 2 Shelves, with Heated Lamp Display to Rear"	0	0
+228	Roll of Blue Safety Flooring	0	0
+229	Roll of Blue Safety Flooring	0	0
+230	Roll of Blue Safety Flooring	0	0
+231	Iarp Ice Cream Display Freezer	0	0
+232	Stainless Steel Preparation Table over 2 Shelves	0	0
+233	Lincat Stainless Steel Chip Scuttle on Stand with Heated Lamp Display	0	0
+234	Maestrowave Model MW1200 Commercial Microwave Oven	0	0
+235	Stainless Steel Preparation Table with Under Shelf	0	0
+236	6 Circular & 6 Square Reconstituded Marble Tops & 4 other Circular Tops	0	0
+237	Manitowoc Ice Maker Model QM30 Ref: HL 34	0	0
+238	4 Tier Pot Rack 1520 x 610  Ref: HL 17	0	0
+239	3 Boxes of Branded Drinking Glasses	0	0
+240	3 Tier Stainless Steel Shelf Unit Ref: HL 10	0	0
+241	Stainless Steel 6 Foot Shelf Unit	0	0
+242	Stainless Steel Refigerated Counter	0	0
+243	Stott Benham Auto Fry 120 Gas Fired Floor Standing Fryer	0	0
+244	Stainless Steel Preparation Table with Under Shelf Ref: HL 08	0	0
+245	Single Burner Gas Fired Wok Range Ref:- HL 06	0	0
+246	Under Counter Refrigerator	0	0
+247	Stainless Steel Under Counter Refrigerator Ref: HL 478	0	0
+248	Still Juno Bratt Pan Ref: HL 410	0	0
+249	Falcon Dominator 4 Burner Gas Cooker over Oven Ref:- HL 507	0	0
+250	"Large Commercial Stainless Steel Double Bowl Sink unit with Double Drainer, Taps & Under Shelf Ref:- HL 509"	0	0
+251	IMC Model BK 60 Under Counter Bottle Cooler Ref: HL 411	0	0
+252	Stainless Steel Preparation Table with Drawer & Cupboard Ref: HL 15	0	0
+253	Parry Single Basket Floor Standing Fryer	0	0
+254	"1/2 "" Gas Hose"	0	0
+255	"3/4 "" Gas Hose Ref:- HL 488"	0	0
+256	Cornelius Under Counter Double Door Bottle Cooler	0	0
+257	Blue Seal Model G54 4 Burner Commercial Cooker over Oven Ref: HL 211	0	0
+258	Bakers Pride 4 Burner Char Grill Ref: HL 442	0	0
+259	Bakers Pride 4 Burner Char Grill Ref: HL 506	0	0
+260	Gram Refigerated Preparation Counter Ref:- HL 430	0	0
+261	Classic 600 Cabinet Type Dishwasher	0	0
+262	Stainless Steel Refrigerated Preparation Counter Ref:- HL 417	0	0
+263	Gas Fired Eye Level Grill Ref:- HL 05	0	0
+264	Stainless Steel Preparation Table with Under Shelf Ref: - HL 431	0	0
+265	Lincat Table Top Carvery Unit with Heated Lamp Display Ref:- HL 316	0	0
+266	Electrolux Pasta Cooker Ref: - HL 502	0	0
+267	Refigerated Stainless Steel & Curved Glass Display Unit	0	0
+268	3 Tier Stainless Steel Mobile Unit Ref:- HL 09	0	0
+269	4 Tier Pot Rack Ref: HL 38	0	0
+270	Chicken Express Multi Purpose Pressure Fryer	0	0
+271	Budweiser Branded Double Door Bottle Cooler (AF)	0	0
+272	17 Cubic Foot Chest Freezer Ref: HL 27	0	0
+273	True Refrigerated Preparation Unit Ref:- HL 19	0	0
+274	Hobart 4732 3 Phase Commercial Mincer Ref:- HL 21	0	0
+275	Victor 6 Pot Baine Marie over Hot Cupboard Ref:- HL 27	0	0
+276	Chef King Single Deck Pizza Oven	0	0
+277	Maestrowave MW1200 Commercial Microwave Oven	0	0
+278	Stainless Steel Preparation Table over 2 Shelves	0	0
+279	Collection of Crockery	0	0
+280	Wooden Bar with 2 High Stools	0	0
+281	30 Spindle Back Bentwood Chairs	0	0
+282	Dynamo Glass Bath Screen	0	0
+283	Large Plate Glass & Chrome Shower Screen	0	0
+284	Sevilla 1200 mm Sliding Shower Door	0	0
+285	I Series Plate Glass Shower Panel	0	0
+286	Large Mirrored Glass Shower Side Panel	0	0
+287	Style 800 Shower Door	0	0
+288	Indi 760 Side Panel	0	0
+289	"Shower Control Panel with Speakers, Mixers, Hose & Head"	0	0
+290	Large Semi Circular Mahogany Bar Top	0	0
+291	26 High Back Brown Leather Modern Dining Chairs	0	0
+292	Poser Table on Chrome Pedestal	0	0
+293	Black Faux Leather Bar Stool	0	0
+294	12 Quality Cafe Style Square Tables with Oak Tops on Chrome Pedestals	0	0
+295	Stainless Steel 3 Grop Rack Ref: HL 25	0	0
+296	Craven 4 Tier Pot Rack Ref: HL 33	0	0
+297	Moorwood Gas Fired Grill Ref: HL 42	0	0
+298	Stainless Steel Mobile Preparation Table with 2 Under Shelves Ref: HL 40	0	0
+299	Turbo Chef Commercial Oven Ref: HL 32	0	0
+300	Meiko DV80.2 Commercial Pass Thru Dish Washer with Feed Table Ref: HL 24	0	0
+301	Single Phase Commercial Meat Slicer	0	0
+302	Buffalo Soup Couldron	0	0
+303	Moorwood Vulcan M-Line Plus Gas Double Oven Ref: HL 23	0	0
+304	Stainless Steel Double Sided Mobile Hot Cupboard with Over Shelf Ref: HL 22	0	0
+305	Set of Avery Berkell Digital Scales to Weigh 15kg	0	0
+306	Cheese Wire	0	0
+307	Cheese Wire	0	0
+308	Chain Fly Screen	0	0
+309	Polar 3 Door Salad Topping Refrigerator Ref: HL 20	0	0
+310	Falcon 3 Burner Stainless Steel Char Grill on Wheels Ref; HL 31	0	0
+311	DCS Stainless Steel 6 Burner Cooker Over Oven Ref: HL 35	0	0
+312	Lincat Electric Stainless Steel Grill Ref: HL 41	0	0
+313	Mobile Stainless Steel Preparation Unit Ref: 39	0	0
+314	Gram Under Counter Refrigerator Ref: HL 28	0	0
+315	Large Commercial Stainless Steel Double Bowl Sink Unit with Drainer - Pillar Taps - Under Shelves & Shelf to Rear Ref: HL 29	0	0
+316	Adjustable Chrome Racking	0	0
+317	Section of Vogue 4 Tier Pot Rack Ref: HL 30	0	0
+318	Tefcold Display Refrigerator Ref: HL 36	0	0
+319	Stainless Steel Preparation Table (1800 x 700) Ref: HL 44	0	0
+320	Vizu Serve Through Heated Display Unit	0	0
+321	Stainless Steel Preparation Table with Under Shelf Ref: HL 37	0	0
+322	Stainless Steel Mobile Bain Marie with Heated Lights Over Ref: HL 43	0	0
+323	Cloakroom Suite Comprising of White WC with Dual Flush Cistern - Soft Close Lid & Small Hand Basin with Pedestal	0	0
+324	White Cloakroom Suite Comprising of White WC with Dual Flush Cistern - Soft Close Lid & Large White Square Hand Basin on Pedestal	0	0
+325	2 Black & Glass Display Cabinets	0	0
+326	6 Circular Tulip Style Tables	0	0
+327	11 Modern Plastic Stackable Chairs	0	0
+328	Approximately 40 Pink & Black Stackable Banqueting Chairs	0	0
+329	9 Beech Rectangular Tables & 11 Matching Bar Stools with Upholstered Tops	0	0
+330	5 Mahogany Oblong Dining Tables - 2 Oblong & 2 Circular Reception Tables on Turned Legs	0	0
+331	2 Circular Cafe Style Tables in Light Oak Finish on Chrome Pedestals	0	0
+332	4 Leather High Backed Dining Chairs	0	0
+333	Elemis Display Stand	0	0
+334	Acrylic & Chrome Chair with Rise & Fall Action	0	0
+335	Beauty Salon Stool with White & Brown Hide Seat	0	0
+336	Reception Tub Seat in Brown & White Faux Leather	0	0
+337	Typist's Swivel Chair (Charcoal)	0	0
+338	Silver Painted 3 Tier Mobile Beauty Salon Racks	0	0
+339	Electric Massage Bed Model S3KM-24D-115mm with Electric Rise & Fall Action	0	0
+340	Fully Adjustable Massage Bed	0	0
+341	Carmen Foot Spa - Wicker Baskets - 3 Basket Trays	0	0
+342	Chrome & Frosted Glass Work Table	0	0
+343	3 Plastic Storage Boxes Containing Magazines & Reading Material - Lamps etc	0	0
+344	Stainless Steel 3 Tier Beauty Therapist's Trolley	0	0
+345	Stainless Steel 3 Tier Beauty Therapist's Trolley	0	0
+346	Salon Treatment Chair with Adjustable Height & Foot Spa	0	0
+347	8 Stackable Office Chairs	0	0
+348	Unframed Printed Canvas	0	0
+349	Display Stand & 2 Bags Containing Assorted Towels	0	0
+350	Sunjunki Tanning Booth Complete with Spray Tan Applicator	0	0
+351	Open Glass Display Cabinet	0	0
+352	Painted Display Cabinet with Glazed Door & Shelves	0	0
+353	Pedestal Fan & Swivel Chair	0	0
+354	Purple Partition with Chrome Hooks	0	0
+355	Black Ash & Brushed Stainless Steel Sideboard	0	0
+356	Payot Display Stand & Magnifying Head Piece	0	0
+357	Philips Fax Machine & Bag Containing Routers etc	0	0
+358	Mitsubishi HD Ready Projector Complete with HDMI Cables & Screen	0	0
+359	Nomadic Exhibition Unit	0	0
+360	Mobile Conditioning Unit	0	0
+501	10 New Assorted Hardbacked Cooking Books	0	0
+502	10 New Assorted Hardbacked Cooking Books	0	0
+503	10 New Assorted Hardbacked Cooking Books	0	0
+504	10 New Assorted Hardbacked Cooking Books	0	0
+505	10 New Assorted Hardbacked Cooking Books	0	0
+506	10 New Assorted Hardbacked Cooking Books	0	0
+507	10 New Assorted Hardbacked Cooking Books	0	0
+508	10 New Assorted Hardbacked Cooking Books	0	0
+509	5 New Assorted Hardbacked Cooking Books	0	0
+510	5 New Assorted Hardbacked Cooking Books	0	0
+511	8 Assorted Hardbacked Books - Art & Painting	0	0
+512	8 Assorted Hardbacked Books - Art & Painting	0	0
+513	7 Assorted Hardbacked Books - Art & Painting	0	0
+514	8 Assorted Hardbacked Books - Art & Painting	0	0
+515	8 Assorted Hardbacked Books - Art & Painting	0	0
+516	4 Assorted Hardbacked Books - Art & Painting	0	0
+517	"6 Assorted Hardbacked Books - Silver, Antiques & Sculpture"	0	0
+518	8 Assorted Hardbacked Books - War	0	0
+519	8 Assorted Hardbacked Books - Navy & Army	0	0
+520	"11 Assorted Hardbacked Books - Places of The World Including China, Africa, Italy etc"	0	0
+521	Collection of 13 Books - The Universe Ghosts etc	0	0
+522	8 Volumes of David Attenborough's First Life	0	0
+523	4 Volumes of The Good House Keeping 1000 Home Remedies & 3 Home Medicine Books	0	0
+524	9 Assorted Gardening Books	0	0
+525	9 Assorted Gardening Books	0	0
+526	11 Assorted Wildlife & Fresh Water Fish Books	0	0
+527	11 Assorted Great British Walk & Rambling Books	0	0
+528	14 Assorted Great British Walk & Rambling Books	0	0
+529	11 Assorted Great British Walk & Rambling Books	0	0
+530	9 Assorted Street Maps	0	0
+531	"8 Assorted Hardbacked Books - Driving, Sailing & Yachting etc"	0	0
+532	10 Assorted DIY Books	0	0
+533	2 Volumes of Sommerville's Travels - 4 Volumes of Devon Memories - Volume of The Peak District & 1 Volume of Britain	0	0
+534	13 Volumes of Para's Fitness Guide by Major Sam McGrath	0	0
+535	10 Assorted Hardbacked Books - The Ancient World Earth & Journeys Around The World	0	0
+536	5 Volumes of Reader's Digest Internet Story - 5 Volumes of Which Laptops Made Easy & 2 Computer Books	0	0
+537	11 Camera & Photographic Books	0	0
+538	13 Volumes of The Biggest Loser & 5 Volumes of Free Yourself From Back Pain	0	0
+539	3 Volumes of Bubble Wrap - Banana Peel Baby & Beyond	0	0
+540	7 Music & Composer Books etc	0	0
+541	4 British Railway Books	0	0
+542	22 Healing with Flowers Booklets	0	0
+543	20 Children's Assorted Books	0	0
+544	20 Children's Assorted Books	0	0
+545	20 Children's Assorted Books	0	0
+546	20 Children's Assorted Books	0	0
+547	20 Children's Assorted Books	0	0
+548	20 Children's Assorted Books	0	0
+549	20 Children's Assorted Books	0	0
+550	20 Children's Assorted Books	0	0
+551	20 Children's Assorted Books	0	0
+552	20 Children's Assorted Books	0	0
+553	20 Children's Assorted Books	0	0
+554	20 Children's Assorted Books	0	0
+555	20 Children's Assorted Books	0	0
+556	20 Children's Assorted Books	0	0
+557	20 Children's Assorted Books	0	0
+558	20 Children's Assorted Books	0	0
+559	20 Children's Assorted Books	0	0
+560	20 Children's Assorted Books	0	0
+561	20 Children's Assorted Books	0	0
+562	20 Children's Assorted Books	0	0
+563	20 Children's Assorted Books	0	0
+564	20 Children's Assorted Books	0	0
+565	4 Volumes of I'll be Watching You - Inside The Police by Andy Summers	0	0
+566	14 Assorted Cookery Books	0	0
+567	29 Derby County Football Club Address Books	0	0
+568	8 Assorted Hardbacked Books & Scrabble Dictionary	0	0
+569	Box Containing Assorted Hardbacked Books	0	0
+570	Box Containing Assorted Hardbacked Books	0	0
+571	Box Containing Assorted Hardbacked Books	0	0
+572	Box Containing Assorted Hardbacked Books	0	0
+573	Box Containing Assorted Hardbacked Books	0	0
+574	Box Containing Assorted Hardbacked Books	0	0
+575	Box Containing Assorted Hardbacked Books	0	0
+576	Box Containing Assorted Hardbacked Books	0	0
+577	Box Containing Assorted Hardbacked Books	0	0
+578	10 Hardbacked Medical Books Including The Natural History of Infectious  Diseases - 60 Centuries of Health & Physics - A Guide to Common Diseases etc	0	0
+579	10 Hardbacked Medical Books Including  Price's Text Book - The Practise of Medicine - The History of Medicine Volume 1 & 2 & Industrial Medicine	0	0
+580	7 Hardbacked Medical Books Including Surgical Hand Craft - Guy's Hospital & The Index of Differential Diagnosis - Gould's Medical Dictionary etc	0	0
+581	7 Hardbacked Medical Books Including Text Book of Histology - Medical Aspects of Traffic Accidents & The Theory of Public Health etc	0	0
+582	Book Entitled At the Sign of The Barber's Pole by William Andrews Printed in Cottingham 1904	0	0
+583	The Medical Profession 1887 by Rivington	0	0
+584	Book Entitled The Medical World of The 18th Century	0	0
+585	3 Medical Books  - The British Pharmaceutical Codex 1934 Practical Procedures in Clinical Medicine & Physical Signs in Clinical Surgery	0	0
+586	7 Hardbacked Medical Books Including Aids to Public Health - Synopsis  of Fevers - 60 Years of Health etc	0	0
+587	Hardbacked Book - The Cloister & The Hearth by Charles Read	0	0
+588	10 Hardbacked Medical Books Including  The Evolution of The Medieval Practise - Principles of Medical Statistics - Preventive Medicine & Public Health	0	0
+589	Volumes 1-3 The Engineering Workshop Practise	0	0
+590	Volumes 1 & 2 Funk & Wagnells New Practical Dictionaries	0	0
+591	3 Hardbacked Books - Darwin's Journal of A Voyage Around the World  - Stories of Exploration & The Observor's Books of Ships	0	0
+592	24 Volumes of Time Life Books - Shipping & Exploration	0	0
+593	"2 Hardbacked Books - Merchant Books -  A Pictorial Study & British Shipping - It's History, Organisation & Importance"	0	0
+594	Small Box of Books Including Wordsworth Poetical Works - The Earl of Beaconsfield & His Life & Times	0	0
+595	Box Containing Hardbacked & Paperbacked Medical Books	0	0
+596	Box Containing Hardbacked & Paperbacked Medical Books	0	0
+597	Box Containing Hardbacked & Paperbacked Medical Books	0	0
+598	Box Containing Hardbacked Books Relating to Shipping	0	0
+599	Box of Hardbacked & Paperbacked Books	0	0
+600	Powis Parker Scorer Fast Back Binding System	0	0
+601	Excelam Plus 355RM Laminator	0	0
+602	Epsom Stylus Photo EX730WE	0	0
+603	LG Super Multi DVD Recorder	0	0
+604	Tevion USB Turn Table	0	0
+605	Ideal 3905 Guillotine & Accessories	0	0
+605B	2 Apple Toner Cartridges	0	0
+605A	Cannon Printer & 5 Inks	0	0
+606	3 Smoker's Stands	0	0
+606A	Fibre Glass Kayak with Spray Deck & Paddle	0	0
+607	Stateroom Teak Display Cabinet Over Drawers	0	0
+608	Brass Fire Kerb	0	0
+609	RGD Stereo Record Player	0	0
+610	1950's Coffee Table	0	0
+611	2 Framed Highland Cattle Scenes	0	0
+612	Teak Nathan Display Cabinet Over Sideboard	0	0
+613	Harbour Scene Framed Print by Vernon Ward	0	0
+614	Teak Nathan Display Cabinet Over Sideboard	0	0
+615	Assorted Bottles of Wine & Spirits etc	0	0
+616	Framed Print	0	0
+617	Gilt Framed Picture Frame	0	0
+618	1950's Walnut China Cabinet	0	0
+619	1950's Sewing Box	0	0
+620	Modern Wall Mirror	0	0
+621	Adam Style Fire Surround with Marble Insert & Hearth	0	0
+622	Mahogany Hi-Fi Cabinet	0	0
+623	Child's Pine Cot	0	0
+624	Glazed Light Oak Corner Cabinet	0	0
+625	Framed Nautical Print	0	0
+626	Little Tykes Pedal Car	0	0
+627	Wooden Kayak with Paddle & Spray Deck	0	0
+628	Child's  Moto Cross Battery Operated Motor Bike	0	0
+629	Bianchi Gent's Mountain Bike	0	0
+630	Gent's Double Disc Mountain Bike	0	0
+631	Free Spirit Mountain Bike	0	0
+632	Gent's Raleigh Mountain Bike (Red)	0	0
+633	Lady's Raleigh Cycle	0	0
+634	Gent's Oak Wardrobe	0	0
+635	Oak Dresser with Linen Fold & Leaded Glass Panel Doors	0	0
+636	Quantity of Glassware	0	0
+637	Oak Bureau Bookcase	0	0
+638	Oak Fall Front Bureau	0	0
+639	Pine Chest of 3 Long & 2 Short Drawers & 2 Bedside Cabinets	0	0
+640	Pine & Blue Chest of Drawers	0	0
+641	White Double Wardrobe Over Drawers	0	0
+642	Mahogany Mirror Backed Sideboard	0	0
+643	Bamboo Bookshelf	0	0
+644	Mahogany Occasional Table	0	0
+645	2 Standard Lamps	0	0
+646	Oak Hall Table with Pie Crust Edge	0	0
+647	Large Quantity of Curtaining	0	0
+648	Healthopaedic Night Nurse Single Bed & Mattress	0	0
+649	3 Seat Settee with Matching Pouffe	0	0
+651	Brown Leatherette High Back Chair	0	0
+652	Cream Recliner Chair	0	0
+653	1930's Duvet Cover	0	0
+654	Art Deco Wall Mirror	0	0
+655	Wicker Bookshelf	0	0
+656	Child's Rocking Chair	0	0
+657	Teak Coffee Table	0	0
+658	Oak Stick Stand	0	0
+659	Green Patterned 3 Piece Suite	0	0
+660	Circular Coffee Table	0	0
+661	Circular Coffee Table	0	0
+662	Black Leatherette Easy Chair	0	0
+663	3 Piece Conservatory Suite	0	0
+664A	2 Drawer Beech Unit	0	0
+664B	Television Unit	0	0
+664	Oak Circular Coffee Table	0	0
+665	2 Pine Picture Frames	0	0
+666	1930's Pouffe	0	0
+667	2 Seat Cane Conservatory Suite	0	0
+668	2 Bamboo Chairs & Glazed Table	0	0
+669	Lloyd LoomType Chair	0	0
+670	Edwardian Oak High Backed Chair	0	0
+671	4 Chrome & Black Dining Chairs	0	0
+672	4 Oak Art Deco Dining Chairs	0	0
+673	Vax Rapid Exel Carpet Cleaner	0	0
+674	Hoover 1700 Watt Vacuum Cleaner	0	0
+675	Panasonic 1200 Watt Vacuum Cleaner	0	0
+676	Fluorescent Light Fitting & Bath Spa	0	0
+677	A Rated Condenser Tumble Dryer	0	0
+678	2 Electric Desk Fans	0	0
+679	Cannon Worcester 4 Ring Gas Cooker	0	0
+680	Hitachi Radio & 2 Slice Electric Toaster	0	0
+681	Delonghi Microwave Oven	0	0
+682	Zanussi Jet System Auto Washing Machine	0	0
+683	Portable Barbecue in Case	0	0
+684	Kenwood Hot Plate	0	0
+685	White Microwave Oven	0	0
+686	Halfords Automatic Tyre Inflator	0	0
+687	Bosch BOS500 Router	0	0
+688	Box Containing Cine Cameras etc	0	0
+689	Expresso Coffee Machine	0	0
+690	Next Party Fondue Set	0	0
+691	Part Fishing Pole - Landing Net - Keep Net & Barrow for Fishing Basket	0	0
+692	Stainless Steel Sink	0	0
+693	Light Beech Sideboard	0	0
+694	Pine Wall Shelf	0	0
+695	Ironing Board - Clothes Airier & Baby Gate	0	0
+696	Norfrost Chest Freezer	0	0
+697	Chrome Trolley	0	0
+698	Flymo Electric Mower	0	0
+699	2 Children's Car Seats	0	0
+700	Box of Old Metal Collectables Including Tilley Lamp etc	0	0
+701	Panasonic Digital Receiver - Philips DVD etc	0	0
+702	2 Boxes of Part Dinner Services	0	0
+703	Collection of 45 Records & Audio Cassette Cabinet	0	0
+704	Toshiba DVD Player & Sky Box	0	0
+705	Look & Listen Activity Laptop	0	0
+706	Swann Professional Iron	0	0
+707	4 Boxes of Bric-a-Brac Including China - Tea Services - Mugs etc	0	0
+708	Morphy Richards Steamer - Wine Rack & Kodak Digital Camera	0	0
+709	Sewing Machine in Case	0	0
+710	Binatone Telephone	0	0
+711	9 Boxes of Books	0	0
+712	Bag Containing Ratchet Straps	0	0
+713	Oak Tool Box & Contents	0	0
+714	3 Fold-Away Chairs	0	0
+715	Oil Filled Electric Radiator	0	0
+716	1960's Teak Coffee Table	0	0
+717	Light Oak Long John Coffee Table	0	0
+718	Sheldon Log Effect Electric Fire	0	0
+719	GEC Electric Coal Effect Fire	0	0
+720	Pair of Framed Marine Prints	0	0
+721	Oak Drop Leaf Table	0	0
+721A	CD Unit in Light Wood	0	0
+722	Collection of Classical Records	0	0
+723	Box of Figurines	0	0
+724	Jones Sewing Machine in Case	0	0
+725A	2 Boxes of Bric-a-Brac Including Hitachi Camera etc	0	0
+725	Oak Drop Leaf Table	0	0
+726	Box Containing Bric-a-Brac	0	0
+727	Teak Drop Leaf Table	0	0
+728	Oak Drop Leaf Table	0	0
+729	Horse Saddle	0	0
+730	Quarter Size Snooker Table	0	0
+731	Light Beech Double Mirrored Wardrobe to be Erected	0	0
+732A	Oil Filled Radiator	0	0
+732	Black & Decker Work Bench	0	0
+733	Candy Tumble Dryer	0	0
+734	Oak Tea Trolley	0	0
+735	Oak Deco Dining Table	0	0
+736	Oak Deco Sideboard	0	0
+737	Complete Games Set	0	0
+738	2 Battery Operated Dog Toys	0	0
+739	1950's Fall Front Bureau	0	0
+740	Gilt Framed Mirror	0	0
+741	Modern Wall Mirror	0	0
+742	Rise & Fall Disability Chair	0	0
+743	Disability Walking Aid	0	0
+744	Folding Wheelchair	0	0
+745	Wicker Ottoman - 2 Wicker Linen Baskets - Picture Frames & Tin of Buttons	0	0
+746	Box Containing CDs etc	0	0
+747	Box Containing Hornsea Pottery Wares etc	0	0
+748	Box Containing Toaster - Kitchenware etc	0	0
+749	Photo Smart Copier - Playstation 2 Games etc	0	0
+750	Aluminium CD Storage Case	0	0
+751	2 Aluminium CD Storage Boxes	0	0
+752	8 Lledo Days Gone By Boxed Vehicles etc	0	0
+753	Collection of Postcards	0	0
+754A	Oil Filled Radiator	0	0
+754	2 Old Company Seals	0	0
+755	Collection of Old Records	0	0
+756	Assorted Framed Prints	0	0
+757	Assorted Framed Prints	0	0
+758	Exercise Machine - Steam Iron & Collection of Children's Games	0	0
+759	Collection of Framed Prints	0	0
+760	3 Branch Hanging Chandelier with Shades	0	0
+761	Tray of Glassware & Ornaments	0	0
+762	Silver Plated Gallery Tray - Condiment Set & Teapot	0	0
+763	2 Old Cameras	0	0
+764	Tray of Wrist Watches	0	0
+765	Tray of Costume Jewellery	0	0
+766	2 Trays of Costume Jewellery	0	0
+767	Tray of Old Christmas Decorations	0	0
+768	2 Trays of Costume Jewellery	0	0
+769	Box Containing Glassware - Pottery - Cutlery etc	0	0
+770	Tray of Denby Ware	0	0
+771	2 Trays of Collectable China & Glassware	0	0
+772	2 China Shire Horse Ornaments	0	0
+773	Pair of Wooden Candle Sticks	0	0
+774	Copper Warming Pan	0	0
+775	2 Deco Light Shades	0	0
+776	Deco Light Shade	0	0
+777	Deco Lamp Shade	0	0
+778	4 Collectable Jugs	0	0
+779	Tray Containing Green Glassware & Collectable Tea Service	0	0
+780	Tray of Part Tea Services	0	0
+781	Tray Containing Dressing Table Set	0	0
+782	Tray of Collectable China & Glassware	0	0
+783	2 Collectable Whisky Bottles & Set of Babycham Glasses	0	0
+784	Tray of Glassware	0	0
+785	3 Puppets	0	0
+786	Meat Plate - Cut Glass Bowl etc	0	0
+787	Blue & White Meat Plate - Plant Pedestal Stand & Ceramic Windmill	0	0
+788	6 Pieces of Poole Pottery	0	0
+789	Tray of Sylvac Wares Including Rabbit - Duck & Vases	0	0
+790	2 Trays of China & Glassware	0	0
+791	Tray of Denby Wheatsheaf Ware	0	0
+792	Jug & Bowl	0	0
+793	Large Capo Di Monte Jug	0	0
+794	Large Capo Di Monte Coffee Pot	0	0
+795	Burleigh Ware Acorn Teapot - Condiment Set & Biscuit Barrel	0	0
+796	Woods Burslem Decorative Fruit Set - Polish Dish & Jug	0	0
+797	5 Hummel Figurines (Some A/F)	0	0
+798	Collection of Silver Platedware	0	0
+799	Costume Doll in Box - Lela Florence Italy	0	0
+800	4 Piece Silver Plated Tea Set	0	0
+801	3 Sylvac Vegetable Jars	0	0
+802	2 Boxed Power Ranger Toys	0	0
+803	Quantity of Denby Arabesque Dinnerware	0	0
+804	2 Denmark Wall Plates	0	0
+805	Collection of Silver Plate etc	0	0
+806	4 German Leaf Plates	0	0
+807	2 Vintage Hat Boxes	0	0
+808	2 Royal Doulton Royalty Plates	0	0
+809	Pair of Mark Scheffel Binoculars	0	0
+810	Asian Parasol	0	0
+811	Quantity of Cut Glassware	0	0
+812	Hunting Scene Teapot - Sugar Bowl & Milk Jug	0	0
+813	2 Trays Containing Large Jug - Glass Vase - China Ware etc	0	0
+814	Sylvac Poodle - Corgi & Terrier Figures	0	0
+815	2 Cased Sets of Cutlery & Loose Cutlery	0	0
+816	Sadler Celery Vase - Sylvac Vase & Torquay Dish	0	0
+817	Hornsea Pottery Tea Service	0	0
+818	Tray of Coloured Glassware	0	0
+819	Large Quantity of Bayko Building Bricks	0	0
+820	Bol's Musical Bottle & Coronet Camera	0	0
+821	Roslyn China Tea Service & Another Part Service	0	0
+822I	Costume Brooch & Necklace	0	0
+822H	Tray of Costume Jewellery	0	0
+822E	Silver Necklace	0	0
+822D	Win Lighter in Case	0	0
+822C	Tray of Costume Jewellery	0	0
+822A	Fashion Bracelet	0	0
+822B	Bag Containing 2 Bracelets - Possibly Silver?	0	0
+822G	2 Pairs of Fashion Earrings	0	0
+822	Tray of Costume Jewellery	0	0
+822F	Silver Locket & Chain	0	0
+823	Rattan Table & 4 Chairs	0	0
+824	Rattan Table & 4 Chairs	0	0
+825	Rattan Table & 4 Chairs	0	0
+826	Rattan Table & 4 Chairs	0	0
+827	Rattan Table & 4 Chairs	0	0
+828	Large Quantity of Curtains	0	0
+829	Large Quantity of Curtains	0	0
+830	Large Quantity of Curtains	0	0
+831	4 Snooker Cues	0	0
+832	Red Leather High Backed Chair	0	0
+833	Simulated Oak Dining Table	0	0
+834	Complete Home Theatre Surround System	0	0
+835	PC Tower - Monitor - Keyboard & Mouse - HP Printer & Computer Station Desk	0	0
+836	Lamp in the Form of a Tortoise	0	0
+837	Glazed Top Office Desk	0	0
+838	Tiffany Style Table Lamp	0	0
+839	Modern Wall Mirror	0	0
+840	Office Swivel Chair (Black)	0	0
+841	Uplighter	0	0
+842	Electric Pedestal Fan	0	0
+843	Gilt Framed Wall Mirror	0	0
+844	Beige Leather 3 Seat Settee & Pouffe	0	0
+845	Rare Sheepkin Rug	0	0
+846	Silver Framed Wall Mirror	0	0
+847	Modern New York Sky Scraper Worker's Print	0	0
+848	2 Modern Prints	0	0
+849	Glass Topped Coffee Table	0	0
+850	Ebony Figure Head	0	0
+851	Glass Topped Coffee Table	0	0
+852	Chess Board & Set	0	0
+853	Glazed Top Dining Table & 6 Chairs	0	0
+854	2 Cut Glass Decanters & 2 Cut Glass Vases	0	0
+855	Bottle of Courvoisier Cognac	0	0
+856	Marble Topped Coffee Table	0	0
+857	Glass Topped Circular Dining Table & 3 Chairs	0	0
+858	Hornsea Pottery Dinner Service - Rose	0	0
+859	Tile Topped Pine Effect Circular Extending Dining Table & 4 Chairs	0	0
+860	Large Quantity of Autumn Leaves Dinner Ware	0	0
+861	Oak Wall Barometer	0	0
+862	3D Antiques Picture	0	0
+863	Inlaid Coffee Table	0	0
+864	Oak Framed Wall Mirror	0	0
+865	Patterned Glazed Top Coffee Table	0	0
+866	Framed Needlwork Picture	0	0
+867	Half Moon Hall Table	0	0
+868	Beige Floor Rug	0	0
+869	Childrens Party Dress	0	0
+870	Wicker Easy Chair	0	0
+871	Office Chair	0	0
+872	High Back Easy Chair	0	0
+872A	Melamine 3 Drawer Bedside Cabinet	0	0
+873	Battery Operated Power Bike	0	0
+874	Battery Operated Power Bike	0	0
+875	"TV & Video Unit, Table and Piano Stool"	0	0
+876	Pine Chest of Drawers	0	0
+877A	Set of Scout Scales & Box of Gent's Shower Products	0	0
+877	Olympia Typewriter	0	0
