@@ -1,4 +1,4 @@
-driod-gists
+droid-gists
 ===========
 
 gists submitted from DroidEdit
